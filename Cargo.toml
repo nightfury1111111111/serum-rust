@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "./serum_api",
+    "./example",
+    "./tests"
+]

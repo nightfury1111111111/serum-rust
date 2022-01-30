@@ -1,0 +1,14 @@
+[
+    {
+        "address": "FacWw2igCAh6CBpq6mbMnvSz7jNoTwZZRGwoaARQoT5a",
+        "name": "test1/test2",
+        "deprecated": false,
+        "programId": "FG4zpk8FPP3R9K7JYZmgeUKCe6qMAsHgTncnMHJYJrxB"
+    },
+	{
+        "address": "GaXtA3y5FJ4F9qnz3TJoFPLy7ZakChXAf2pgvtmkAWpm",
+        "name": "test3/test4",
+        "deprecated": false,
+        "programId": "FG4zpk8FPP3R9K7JYZmgeUKCe6qMAsHgTncnMHJYJrxB"
+    }
+]
